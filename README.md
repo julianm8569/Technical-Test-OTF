@@ -7,3 +7,4 @@
    los contactos pero solo con los datos necesarios para hacer la transformacion y carga de datos para q sea mas facil comparar con el archivo Transformation.csv que es donde se encuentra
    los contactos con los datos ya trnasformados y listos para hacer la carga
 5. El archivo Questions.word se encuentran las repuestas a las preguntas que estan al final del pdf
+6. El acces token del HubSpot donde se realizo la carga de datos es pat-na1-cc16d6cd-9273-49a1-b953-d21bfb8d02f8
